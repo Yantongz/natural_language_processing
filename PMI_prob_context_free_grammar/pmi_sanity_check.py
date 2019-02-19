@@ -1,9 +1,3 @@
-########################################
-## CS447 Natural Language Processing  ##
-##           Homework 3               ##
-##       Julia Hockenmaier            ##
-##       juliahmr@illnois.edu         ##
-########################################
 ##
 ## Validation script for PMI code (Part 1)
 ##
