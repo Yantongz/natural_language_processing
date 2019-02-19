@@ -1,9 +1,3 @@
-########################################
-## CS447 Natural Language Processing  ##
-##           Homework 2               ##
-##       Julia Hockenmaier            ##
-##       juliahmr@illnois.edu         ##
-########################################
 ##
 ## Part 1:
 ## Evaluate the output of your bigram HMM POS tagger
