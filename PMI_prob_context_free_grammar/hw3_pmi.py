@@ -1,9 +1,3 @@
-########################################
-## CS447 Natural Language Processing  ##
-##           Homework 3               ##
-##       Julia Hockenmaier            ##
-##       juliahmr@illnois.edu         ##
-########################################
 ##
 ## Part 1:
 ## Use pointwise mutual information to compare words in the movie corpora
