@@ -1,7 +1,5 @@
-CS 447, Fall 2018
-Homework 2
 
-This directory contains 11 files:
+This directory contains:
 
  (1)    README.txt:             This file
  (2)    hw2.pdf:                PDF handout with description of the assignment
@@ -28,16 +26,5 @@ Part 2: Writing a Context-Free Grammar
  Output:
  (12)   hw2_cfg_out.txt:        Successful parse trees in tabbed, bracketed format, generated from hw2_nltkcfg.py (generated file)
 
-
-***********************************************************************************************
-*  Please note that you are not allowed to share the data with people outside of this class.  *
-*  Furthermore, you must delete the three data files at the end of this semester.             *
-***********************************************************************************************
-
-Summary:
-For part 1, I used dictionares with tuples as keys to store the probabilities for transition and emission probabilities.
-The confusion matrix is of the format actual tags(from gold) X predictted tags(from test).
-
-For part 2, I defined NP and VP similar to examples in slides, add ADJ which stands for adjective phrases. I also included clauses in implementing the rules.
 
 
