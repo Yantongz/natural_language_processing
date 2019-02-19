@@ -1,9 +1,3 @@
-########################################
-## CS447 Natural Language Processing  ##
-##           Homework 2               ##
-##       Julia Hockenmaier            ##
-##       juliahmr@illnois.edu         ##
-########################################
 ##
 ## Part 1:
 ## Train a bigram HMM for POS tagging
